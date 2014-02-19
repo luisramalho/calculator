@@ -10,7 +10,7 @@ This gem allows you to make simple calculations.
     calc.multiply_by("4").result # 12
     calc.divide_by("3").result # 4
 
-##Short comings in the proposed specification above.
+##Short comings
 
 ###Use of `*` twice?
 
